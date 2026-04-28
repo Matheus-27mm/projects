@@ -30,36 +30,36 @@ O **SELA** resolve esse problema oferecendo uma plataforma completa de rastreabi
     <td width="50%" align="center">
       <strong>Dashboard — Compliance Overview</strong><br>
       <em>EUDR compliance KPIs, ESG score and active alerts at a glance</em><br><br>
-      <img src="docs/screenshots/01-dashboard.png" alt="SELA Dashboard with EUDR compliance KPIs, ESG score and environmental alerts" />
+      <img src="screenshots/01-dashboard.png" alt="SELA Dashboard with EUDR compliance KPIs, ESG score and environmental alerts" />
     </td>
     <td width="50%" align="center">
       <strong>Geospatial Map — Overview</strong><br>
       <em>All registered farms colored by EUDR compliance status</em><br><br>
-      <img src="docs/screenshots/02-map-overview.png" alt="Satellite map showing all registered farms colored by EUDR status" />
+      <img src="screenshots/02-map-overview.png" alt="Satellite map showing all registered farms colored by EUDR status" />
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
       <strong>DETER Alerts Overlay</strong><br>
       <em>Real-time deforestation polygons from INPE crossed with farm boundaries</em><br><br>
-      <img src="docs/screenshots/03-map-deter.png" alt="Map with DETER deforestation alerts overlay on farm polygons" />
+      <img src="screenshots/03-map-deter.png" alt="Map with DETER deforestation alerts overlay on farm polygons" />
     </td>
     <td width="50%" align="center">
       <strong>Farm Management</strong><br>
       <em>Detailed view with ESG score, polygon area and risk indicators</em><br><br>
-      <img src="docs/screenshots/04-farms.png" alt="Farm management screen with ESG score and territorial data" />
+      <img src="screenshots/04-farms.png" alt="Farm management screen with ESG score and territorial data" />
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
       <strong>Lot Tracking</strong><br>
       <em>Status flow from planting to delivery with traceability codes</em><br><br>
-      <img src="docs/screenshots/05-lots.png" alt="Lot management with tracking codes and status flow" />
+      <img src="screenshots/05-lots.png" alt="Lot management with tracking codes and status flow" />
     </td>
     <td width="50%" align="center">
       <strong>Public Traceability</strong><br>
       <em>QR-accessible page showing the full origin chain to the final consumer</em><br><br>
-      <img src="docs/screenshots/06-public-tracking.png" alt="Public traceability page accessible via QR code, showing origin chain" />
+      <img src="screenshots/06-public-tracking.png" alt="Public traceability page accessible via QR code, showing origin chain" />
     </td>
   </tr>
 </table>
@@ -326,36 +326,36 @@ Starting in late 2025, the European Union began requiring importers of commoditi
     <td width="50%" align="center">
       <strong>Dashboard — Compliance Overview</strong><br>
       <em>EUDR compliance KPIs, ESG score and active alerts at a glance</em><br><br>
-      <img src="docs/screenshots/01-dashboard.png" alt="SELA Dashboard with EUDR compliance KPIs, ESG score and environmental alerts" />
+      <img src="screenshots/01-dashboard.png" alt="SELA Dashboard with EUDR compliance KPIs, ESG score and environmental alerts" />
     </td>
     <td width="50%" align="center">
       <strong>Geospatial Map — Overview</strong><br>
       <em>All registered farms colored by EUDR compliance status</em><br><br>
-      <img src="docs/screenshots/02-map-overview.png" alt="Satellite map showing all registered farms colored by EUDR status" />
+      <img src="screenshots/02-map-overview.png" alt="Satellite map showing all registered farms colored by EUDR status" />
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
       <strong>DETER Alerts Overlay</strong><br>
       <em>Real-time deforestation polygons from INPE crossed with farm boundaries</em><br><br>
-      <img src="docs/screenshots/03-map-deter.png" alt="Map with DETER deforestation alerts overlay on farm polygons" />
+      <img src="screenshots/03-map-deter.png" alt="Map with DETER deforestation alerts overlay on farm polygons" />
     </td>
     <td width="50%" align="center">
       <strong>Farm Management</strong><br>
       <em>Detailed view with ESG score, polygon area and risk indicators</em><br><br>
-      <img src="docs/screenshots/04-farms.png" alt="Farm management screen with ESG score and territorial data" />
+      <img src="screenshots/04-farms.png" alt="Farm management screen with ESG score and territorial data" />
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
       <strong>Lot Tracking</strong><br>
       <em>Status flow from planting to delivery with traceability codes</em><br><br>
-      <img src="docs/screenshots/05-lots.png" alt="Lot management with tracking codes and status flow" />
+      <img src="screenshots/05-lots.png" alt="Lot management with tracking codes and status flow" />
     </td>
     <td width="50%" align="center">
       <strong>Public Traceability</strong><br>
       <em>QR-accessible page showing the full origin chain to the final consumer</em><br><br>
-      <img src="docs/screenshots/06-public-tracking.png" alt="Public traceability page accessible via QR code, showing origin chain" />
+      <img src="screenshots/06-public-tracking.png" alt="Public traceability page accessible via QR code, showing origin chain" />
     </td>
   </tr>
 </table>
