@@ -6,7 +6,7 @@
 
 *Vitrine dos principais sistemas que desenvolvi — apenas READMEs. Código-fonte privado; demonstrações e acesso disponíveis mediante contato profissional.*
 
-[English 🇺🇸](./README.md)
+[Português 🇧🇷](./README.pt-BR.md)
 
 </div>
 
@@ -66,7 +66,7 @@ Manaus, Amazonas, Brasil
 
 *Showcase of the main systems I've built — READMEs and screenshots only. Source code remains private; demonstrations and access available upon professional request.*
 
-[Português 🇧🇷](./README.pt-BR.md)
+[English 🇺🇸](./README.md)
 
 </div>
 
